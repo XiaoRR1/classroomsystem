@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7935e40-65cf-44d0-82b1-afc4fb491389" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="b7935e40-65cf-44d0-82b1-afc4fb491389" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -365,8 +366,16 @@
       <workItem from="1640829060816" duration="461000" />
       <workItem from="1640829566464" duration="1158000" />
       <workItem from="1640830754704" duration="16000" />
-      <workItem from="1640831002534" duration="1391000" />
+      <workItem from="1640831002534" duration="1723000" />
     </task>
+    <task id="LOCAL-00001" summary="更新帮助文档">
+      <created>1640834174058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640834174058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,6 +392,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新帮助文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新帮助文档" />
   </component>
   <component name="WindowStateProjectService">
     <state x="548" y="217" key="#BuildArtifactsBeforeRunChooser" timestamp="1640833792916">
@@ -409,6 +422,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="532" y="241" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1640830143730" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1640834172792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1640834172792" />
     <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1640830519342">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -497,6 +514,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640829522517" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1640834182504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1640834182504" />
     <state x="661" y="147" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1640830144697">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

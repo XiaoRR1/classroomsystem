@@ -14,4 +14,8 @@
 
 在运行之前，需要先配置Tomcat，主页面是loginPage.jsp
 
-这是我的url：http://localhost:8080/classroomsystem_war_exploded/userPage.jsp
+例如：http://localhost:8080/classroomsystem_war_exploded/userPage.jsp
+
+## 效果演示
+
+运行效果演示：https://hezhiying.blog.csdn.net/article/details/103303803
