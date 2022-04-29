@@ -5,6 +5,7 @@
 ## 环境说明
 
 该web版教室预约系统的开发环境是JDK1.8，mysql 5.7（用户名=root，密码=root）
+
 如果你的数据库密码不是root，可以在[src/com/util/DbUtil.java】里修改
 
 ## 账号说明
